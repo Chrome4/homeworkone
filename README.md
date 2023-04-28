@@ -1,4 +1,4 @@
-# Homework 1
+# Homework Week 1
 ## Description 
 This is homework for week 1 of the bootcamp.
 ## Screenshot
