@@ -1,2 +1,8 @@
-# homeworkone
-This is the homework for week 1
+# Homework 1
+## Description 
+This is homework for week 1 of the bootcamp.
+## Screenshot
+
+## Link
+
+
